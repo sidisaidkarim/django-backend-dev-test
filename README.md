@@ -23,5 +23,5 @@ create models.py and views.py
   ![image](https://user-images.githubusercontent.com/13240505/112321145-fefb9c80-8caf-11eb-9865-53ac0505b9c2.png)
   
 #### 3. the stats view can take 2 arguments , start_date and end_date
-#### 4. comment the code to explain the process of adding stats, and displying them 
+#### 4. comment the code to explain the process of adding stats, and displaying them 
 #### 5. no external package, no copy past from other repos 
