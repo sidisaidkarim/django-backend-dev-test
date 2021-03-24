@@ -23,7 +23,10 @@ create models.py and views.py
   ![image](https://user-images.githubusercontent.com/13240505/112321145-fefb9c80-8caf-11eb-9865-53ac0505b9c2.png)
   
   an exemple of real data display in chrom dev tools consol
+  
   ![image](https://user-images.githubusercontent.com/13240505/112325714-38cea200-8cb4-11eb-82ef-7031f3c5c06d.png)
+  
+   ![image](https://user-images.githubusercontent.com/13240505/112326684-01acc080-8cb5-11eb-893b-2c895d373bb7.png)
 
   
 #### 3. the stats view can take 2 arguments , start_date and end_date
